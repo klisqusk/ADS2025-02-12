@@ -12,6 +12,7 @@ import java.util.List;
 */
 
 
+
 public class A_VideoRegistrator {
 
     public static void main(String[] args) {
